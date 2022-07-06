@@ -1,0 +1,2 @@
+# exercise
+juypter exerise
